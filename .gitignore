@@ -1,0 +1,87 @@
+# OS junk
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Node (referenced by TS/JS skill samples if run locally)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# PHP / Composer
+vendor/
+composer.lock
+
+# Python (if any tooling scripts are added later)
+__pycache__/
+*.pyc
+.venv/
+
+# Logs and temp
+*.log
+*.tmp
+.tmp/
+
+# Build output
+dist/
+build/
+
+# AI tool local state (personal settings, caches, scratch)
+.claude/settings.local.json
+.claude/projects/
+.claude/worktrees/
+CLAUDE.local.md
+.cursor/
+.gemini/
+.agents/
+.aider*
+.continue/
+
+# Extra secret / key material
+*.p8
+*.jks
+*.keystore
+*.crt
+*.cer
+*.csr
+*.gpg
+id_rsa*
+id_ed25519*
+credentials.json
+secrets.*
+*.secret
+
+# Misc local files
+*.bak
+*.orig
+*.rej
+.history/
+coverage/
+.nyc_output/
+.cache/
+*.zip
+*.tgz

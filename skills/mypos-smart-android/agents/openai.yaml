@@ -1,0 +1,5 @@
+interface:
+  display_name: "myPOS Smart SDK (Android)"
+  short_description: "Build Android apps for myPOS Smart terminal devices with integrated payments."
+  brand_color: "#0055A5"
+  default_prompt: "Use $mypos-smart-android to implement a payment flow in my Android app running on a myPOS Smart terminal."

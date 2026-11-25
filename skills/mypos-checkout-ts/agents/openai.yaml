@@ -1,0 +1,5 @@
+interface:
+  display_name: "myPOS Checkout (TypeScript)"
+  short_description: "Accept card payments on websites using myPOS hosted checkout."
+  brand_color: "#0055A5"
+  default_prompt: "Use $mypos-checkout-ts to implement a card payment flow on my website."

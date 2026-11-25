@@ -1,0 +1,11 @@
+{
+  "name": "mypos",
+  "description": "Skills for myPOS payment integrations across API Gateway, Online Checkout, Smart SDK, Glass SDK, and Android SDK",
+  "version": "1.0.0",
+  "author": {
+    "name": "myPOS"
+  },
+  "homepage": "https://developers.mypos.com",
+  "repository": "https://github.com/developermypos/myPOS-AI-Dev-Skills",
+  "license": "Apache-2.0"
+}

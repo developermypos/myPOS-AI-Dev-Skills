@@ -1,0 +1,5 @@
+interface:
+  display_name: "myPOS Terminal SDK (.NET)"
+  short_description: "Control a myPOS POS terminal from a .NET application over USB/Serial or TCP-IP. Covers payments, refunds, pre-auth, gift cards, receipts, and terminal management."
+  brand_color: "#0055A5"
+  default_prompt: "Use $mypos-terminal-dotnet to integrate myPOS terminal payments in .NET"

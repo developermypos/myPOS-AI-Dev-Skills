@@ -1,0 +1,5 @@
+interface:
+  display_name: "myPOS Terminal SDK (iOS)"
+  short_description: "Control a myPOS POS terminal from an iOS app over Bluetooth. Covers payments, refunds, reversals, receipts, and terminal management. Supports Objective-C and Swift."
+  brand_color: "#0055A5"
+  default_prompt: "Use $mypos-terminal-ios to integrate myPOS terminal payments in iOS"

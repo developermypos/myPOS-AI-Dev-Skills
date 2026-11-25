@@ -1,0 +1,5 @@
+interface:
+  display_name: "myPOS Glass — SoftPOS (Android)"
+  short_description: "Accept NFC card payments via myPOS Glass Soft POS on standard Android devices."
+  brand_color: "#0055A5"
+  default_prompt: "Use $mypos-glass-android to implement contactless payments via myPOS Glass SoftPOS in my Android app."

@@ -1,0 +1,7 @@
+# Normalize line endings to LF everywhere, regardless of a contributor's
+# core.autocrlf setting. Keeps shell scripts runnable (a CRLF shebang breaks bash)
+# and prevents whole-file diffs from cross-platform line-ending churn.
+* text=auto eol=lf
+
+*.sh text eol=lf
+*.svg text eol=lf -diff

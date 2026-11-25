@@ -1,0 +1,5 @@
+interface:
+  display_name: "myPOS API Gateway (TypeScript)"
+  short_description: "Build server-side myPOS integrations with Banking, Ecommerce, and ePOS APIs."
+  brand_color: "#0055A5"
+  default_prompt: "Use $mypos-api-gateway-ts to implement a myPOS API Gateway integration for my Node.js app."

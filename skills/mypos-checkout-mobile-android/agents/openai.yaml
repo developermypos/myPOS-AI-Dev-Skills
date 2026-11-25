@@ -1,0 +1,5 @@
+interface:
+  display_name: "myPOS Mobile Checkout (Android)"
+  short_description: "Accept card payments inside your own native Android app using the myPOS Mobile Checkout SDK."
+  brand_color: "#0055A5"
+  default_prompt: "Use $mypos-checkout-mobile-android to add in-app card payments to my Android app."

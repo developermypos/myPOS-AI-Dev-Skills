@@ -1,0 +1,5 @@
+interface:
+  display_name: "myPOS Checkout API (REST)"
+  short_description: "Integrate with the myPOS Checkout API directly via HTTP — RSA signatures, redirect checkout, server-side payments, card tokenization, and webhooks in any language or stack."
+  brand_color: "#0055A5"
+  default_prompt: "Use $mypos-checkout-rest to integrate myPOS checkout payments via direct HTTP in my app"

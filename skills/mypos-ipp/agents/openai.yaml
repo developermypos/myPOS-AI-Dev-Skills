@@ -1,0 +1,5 @@
+interface:
+  display_name: "myPOS IPP (Wire Protocol)"
+  short_description: "Implement direct serial/USB/Bluetooth/WiFi communication with myPOS terminals using the Integrated Payments Protocol — all 31 methods, all fields, all stages."
+  brand_color: "#0055A5"
+  default_prompt: "Use $mypos-ipp to implement direct IPP communication with a myPOS terminal"

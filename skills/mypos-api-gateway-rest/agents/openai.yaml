@@ -1,0 +1,5 @@
+interface:
+  display_name: "myPOS API Gateway (REST)"
+  short_description: "Call the myPOS API Gateway directly over HTTP — OAuth2 authentication, ePOS terminal payments, payment links, and banking APIs in any language or stack."
+  brand_color: "#0055A5"
+  default_prompt: "Use $mypos-api-gateway-rest to call the myPOS API Gateway directly from my application"
